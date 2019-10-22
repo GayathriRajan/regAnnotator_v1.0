@@ -1,0 +1,5 @@
+Hits	Hits/1000bp of genome	Hits/million input reads	Normalized hits	Genome size	Virus
+58187	10803.38	10817.6594	2008.4776	5386	>gi|9626372|ref|NC_001422.1| Coliphage phi-X174, complete genome
+2	0.43	0.3718	0.0799	4679	>gi|110645916|ref|NC_001401.2| Adeno-associated virus - 2, complete genome
+6	0.17	1.1155	0.0316	35937	>gi|9626158|ref|NC_001405.1| Human adenovirus C, complete genome
+17	0.10	3.1605	0.0186	162114	>gi|9633069|ref|NC_000898.1| Human herpesvirus 6B, complete genome
